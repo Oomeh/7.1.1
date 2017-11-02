@@ -25,7 +25,7 @@ try {
 }
 catch(int e)
 {
-    cout<< "Your input is not valid, you can't divide by zero"<< endl;
+    cout<< "Your input is not valid, you can't divide by zero."<< endl;
 }
 cout << c << endl;
 return 0; 
